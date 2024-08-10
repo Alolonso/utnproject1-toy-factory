@@ -1,0 +1,5 @@
+{
+  "wood/metal": 4,
+  "paint": 19,
+  "nails/screws": 12
+}

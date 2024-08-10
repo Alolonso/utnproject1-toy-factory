@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12345678",
+    "fullname": "Alonso Admin",
+    "birthdate": "1980-01-01",
+    "mail": "admin@factory.com",
+    "password": "admin123",
+    "usertype": "admin"
+  },
+  {
+    "id": "65432198",
+    "fullname": "Carlos Gómez",
+    "birthdate": "1985-11-30",
+    "mail": "carlos.gomez@factory.com",
+    "password": "carlos85",
+    "usertype": "employee"
+  },
+  {
+    "id": "45612378",
+    "fullname": "Pedro López",
+    "birthdate": "2000-05-10",
+    "mail": "pedro.lopez@factory.com",
+    "password": "pedro2000",
+    "usertype": "employee"
+  },
+  {
+    "id": "12378945",
+    "fullname": "Laura Ramírez",
+    "birthdate": "1978-09-22",
+    "mail": "laura.ramirez@factory.com",
+    "password": "lauraSecure78",
+    "usertype": "client"
+  },
+  {
+    "id": "87654321",
+    "fullname": "María Pérez",
+    "birthdate": "1992-07-15",
+    "mail": "maria.perez@factory.com",
+    "password": "mariaPass92",
+    "usertype": "client"
+  }
+]

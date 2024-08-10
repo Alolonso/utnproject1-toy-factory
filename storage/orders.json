@@ -1,0 +1,72 @@
+[
+  {
+    "id": "12378945",
+    "toy": "car",
+    "date": "2024-08-01",
+    "address": "1234 Elm Street, Springfield, Illinois, USA",
+    "state": "pending"
+  },
+  {
+    "id": "87654321",
+    "toy": "doll",
+    "date": "2024-08-02",
+    "address": "56 Victoria Road, Kensington, London, UK",
+    "state": "approved"
+  },
+  {
+    "id": "12378945",
+    "toy": "ball",
+    "date": "2024-08-03",
+    "address": "789 Yonge Street, Toronto, Ontario, Canada",
+    "state": "completed"
+  },
+  {
+    "id": "87654321",
+    "toy": "car",
+    "date": "2024-08-04",
+    "address": "12 Rue de Rivoli, Paris, France",
+    "state": "pending"
+  },
+  {
+    "id": "12378945",
+    "toy": "doll",
+    "date": "2024-08-05",
+    "address": "34 Roppongi Hills, Minato, Tokyo, Japan",
+    "state": "approved"
+  },
+  {
+    "id": "87654321",
+    "toy": "ball",
+    "date": "2024-08-06",
+    "address": "78 George Street, Sydney, New South Wales, Australia",
+    "state": "completed"
+  },
+  {
+    "id": "12378945",
+    "toy": "car",
+    "date": "2024-08-07",
+    "address": "90 Princes Street, Edinburgh, Scotland",
+    "state": "pending"
+  },
+  {
+    "id": "87654321",
+    "toy": "doll",
+    "date": "2024-08-08",
+    "address": "101 Marina Bay Sands, Singapore",
+    "state": "approved"
+  },
+  {
+    "id": "12378945",
+    "toy": "ball",
+    "date": "2024-08-09",
+    "address": "5 Avenida Libertador, Buenos Aires, Argentina",
+    "state": "completed"
+  },
+  {
+    "id": "87654321",
+    "toy": "car",
+    "date": "2024-08-10",
+    "address": "2 Jalan Bukit Bintang, Kuala Lumpur, Malaysia",
+    "state": "pending"
+  }
+]
